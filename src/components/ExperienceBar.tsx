@@ -4,7 +4,7 @@ export function ExperienceBar() {
            <span>0 xp</span>
            <div>
                <div style={{ width: '68%'}}></div>
-               <span className="current-experience" style={{ left: '68%'}}>68</span>
+               <span className="current-experience" style={{ left: '68%' }}>68</span>
            </div>
            <span>600 xp</span>
        </header>
