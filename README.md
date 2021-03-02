@@ -26,7 +26,7 @@ Nessa última aula entendermos os próximos passos para avançar nos aprendizado
 
 - [React with TypeScript: Best Practices](https://www.sitepoint.com/react-with-typescript-best-practices/)
 
--[Understand ‘+’, ‘>’ and ‘~’ symbols in CSS Selector](https://techbrij.com/css-selector-adjacent-child-sibling)
+- [Understand ‘+’, ‘>’ and ‘~’ symbols in CSS Selector](https://techbrij.com/css-selector-adjacent-child-sibling)
 
 - [EM vs REM vs PX](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px)
 
