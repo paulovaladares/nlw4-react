@@ -21,3 +21,13 @@ Na quarta aula iremos continuar evoluindo nossa aplicação, aprender ainda mais
 ### Dia 5 - Próximo nível com React
 
 Nessa última aula entendermos os próximos passos para avançar nos aprendizados com React com dicas de ferramentas, bibliotecas e conceitos a serem estudados. Também incrementaremos nossa aplicação com algumas features adicionais a fim de mostrar como aplicar esses próximos passos dentro do app desenvolvido na semana.
+
+#### Anotações
+
+- [React with TypeScript: Best Practices](https://www.sitepoint.com/react-with-typescript-best-practices/)
+
+-[Understand ‘+’, ‘>’ and ‘~’ symbols in CSS Selector](https://techbrij.com/css-selector-adjacent-child-sibling)
+
+- [EM vs REM vs PX](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px)
+
+- [What’s The Difference Between PX, EM, REM, %, VW, and VH?](https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/)
